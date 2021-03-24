@@ -8,7 +8,7 @@
 
   Include this in your device makefile : 
 
-  ```  $(call inherit-product, vendor/xiaomi/miuicamera/config.mk ```
+  ```  $(call inherit-product, vendor/xiaomi/miuicamera/config.mk) ```
 
   Continue your build. 
 
