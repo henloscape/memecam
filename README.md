@@ -14,6 +14,6 @@
 
 - ### Credits ### 
 
-  SonalSingh18 for his scripts and feature loader
+  [SonalSingh18](https://github.com/SonalSingh18) for his scripts and feature loader
 
-  Aryan Sinha for his help
+  [Aryan Sinha](https://github.com/techyminati) for his help
